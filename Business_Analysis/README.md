@@ -1,1 +1,1 @@
-Data Projects under Category: Business Analysis
+Data Projects which are listed under the category: Business Analysis
